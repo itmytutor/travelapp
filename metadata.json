@@ -1,0 +1,6 @@
+{
+  "name": "WanderList",
+  "description": "Dream travel bucket list application to track, organize, and explore your must-visit destinations worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
